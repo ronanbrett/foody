@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "foody-api"
+    },
+    {
+      "path": "foody-ui"
+    },
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "typescript.tsdk": "foody-api/node_modules/typescript/lib"
+  }
+}

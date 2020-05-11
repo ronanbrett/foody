@@ -1,0 +1,4 @@
+[submodule "foody-ui"]
+	url = https://github.com/ronanbrett/foody-ui.git
+[submodule "foody-api"]
+	url = https://github.com/ronanbrett/foody-api.git
